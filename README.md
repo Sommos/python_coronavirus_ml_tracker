@@ -6,7 +6,11 @@ This program allows a user to build a classifier based on the 01-01-2021 coronav
 
 The dataset, additional metadata, and the .csv files used in this program can be found at:
 
-https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/01-01-2021.csv
+https://github.com/CSSEGISandData/COVID-19/blob/master/archived_data/archived_time_series/time_series_2019-ncov-Confirmed.csv
+
+https://github.com/CSSEGISandData/COVID-19/blob/master/archived_data/archived_time_series/time_series_2019-ncov-Deaths.csv
+
+https://github.com/CSSEGISandData/COVID-19/blob/master/archived_data/archived_time_series/time_series_2019-ncov-Recovered.csv
 
 # Contribution
 
